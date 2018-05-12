@@ -23,11 +23,11 @@ A small app which allows to increase or decrease the number of rooms to rent and
 
 ### To run the server:
 
-* Under the root (profily) directory run `npm start`
+* Under the root (room-status) directory run `npm start`
 * The app will be accessible at [localhost:3000](http://localhost:3000)
 
 ## Deployment
-* Under the root (profily) directory run `npm run build`
+* Under the root (room-status) directory run `npm run build`
 * Above command will create build of the app and put it inside **build** directory which can be found inside root directory of the app
 * You can keep **build directory** as it is or you can move it anywhere else
 * Install serve to run the build by running command `npm install -g serve`
